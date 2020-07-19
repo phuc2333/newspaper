@@ -1,0 +1,21 @@
+.justify-content-between{
+    justify-content: space-between;
+}
+.d-flex{
+    display: flex;
+}
+.d-flex-wrap{
+    flex-wrap: wrap;
+}
+.f-font-size{
+    font-size: 13px;
+}
+.numb-post{
+      position: absolute;
+    right: 252px;
+}
+
+
+/* 
+
+
